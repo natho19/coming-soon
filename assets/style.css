@@ -79,7 +79,6 @@ body {
 }
 
 .item p {
-    font-size: 18px;
     text-transform: uppercase;
     color: var(--color-secondary);
 }
@@ -100,7 +99,7 @@ body {
     }
 
     .description {
-        margin-bottom: 30px;
+        margin-bottom: 35px;
     }
 
     .countdown {
